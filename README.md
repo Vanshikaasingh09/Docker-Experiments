@@ -11,6 +11,8 @@
 - [Experiment 8 - Titanic prediction Model] (https://github.com/Vanshikaasingh09/titanic_prediction_model)
 - [Experiment 9 - Docker Kubernetes] (https://github.com/Vanshikaasingh09/docker-flask-kubernetes)
 - [Experiment 10 - Portfolio]  (https://github.com/Vanshikaasingh09/Portfolio)
+- [Experiment 11 - Evidently-AI ] (https://github.com/Vanshikaasingh09/Evidently-AI)
+- [Experiment 12 - Python ] (https://github.com/Vanshikaasingh09/Python_Yaml)
 
 
 
